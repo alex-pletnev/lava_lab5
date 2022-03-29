@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2,
+    "name": "214",
+    "coordinates": {
+      "x": 23.0,
+      "y": 2.0
+    },
+    "creationDate": "20322-03-15",
+    "area": 3.0,
+    "population": 2,
+    "metersAboveSeaLevel": 3.0,
+    "timezone": 2.0,
+    "capital": false,
+    "government": "GERONTOCRACY",
+    "governor": {
+      "name": "12"
+    }
+  },
+  {
+    "id": 3,
+    "name": "53",
+    "coordinates": {
+      "x": 2.0,
+      "y": 3.0
+    },
+    "creationDate": "2022-03-15",
+    "area": 4.0,
+    "population": 12,
+    "metersAboveSeaLevel": 2.0,
+    "timezone": 2.0,
+    "capital": false,
+    "government": "GERONTOCRACY",
+    "governor": {
+      "name": "3"
+    }
+  }
+]

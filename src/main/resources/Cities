@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Moscow",
+    "coordinates": {
+      "x": 10.0,
+      "y": 50.0
+    },
+    "area": 2561.5,
+    "population": 12506468,
+    "metersAboveSeaLevel": 100.1,
+    "timezone": 3,
+    "capital": true,
+    "government": "GERONTOCRACY",
+    "governor": {
+      "name": "Sergey Sobyanin"
+    }
+  },
+  {
+    "name": "Piter",
+    "coordinates": {
+      "x": 30.0,
+      "y": 80.0
+    },
+    "area": 1439.0,
+    "population": 5376672,
+    "metersAboveSeaLevel": 3.0,
+    "timezone": 3,
+    "capital": false,
+    "government": "GERONTOCRACY",
+    "governor": {
+      "name": "Alexander Beglov"
+    }
+  }
+]

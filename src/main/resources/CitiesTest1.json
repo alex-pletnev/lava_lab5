@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "12",
+    "coordinates": {
+      "x": 23.0,
+      "y": 2.0
+    },
+    "creationDate": "20202-03-17",
+    "area": 1.0,
+    "population": 2,
+    "metersAboveSeaLevel": 2.0,
+    "timezone": 2.0,
+    "capital": false,
+    "government": "DESPOTISM",
+    "governor": {
+      "name": "2"
+    }
+  }
+]
